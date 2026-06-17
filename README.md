@@ -4,9 +4,10 @@
 
 一句需求生成 APK，设备端直接安装
 生成完成后，Her 会在对话中给出立即测试与安装入口，开发、验证和体验闭环都在 Android 设备上完成。
-使用her做的软件成果
+
 <img src="https://aibox.asia/assets/showcase/install-apk.jpg" alt="立即测试与安装入口" width="500">
 音乐应用
+通过her做的应用
 <img src="https://aibox.asia/assets/showcase/install-music.jpg" alt="音乐应用运行示例" width="500">
 AI 小说工坊
 <img src="https://aibox.asia/assets/showcase/install-novel.jpg" alt="AI 小说工坊运行示例" width="500">
