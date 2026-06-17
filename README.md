@@ -4,15 +4,15 @@
 
 一句需求生成 APK，设备端直接安装
 生成完成后，Her 会在对话中给出立即测试与安装入口，开发、验证和体验闭环都在 Android 设备上完成。
-立即测试与安装入口：
+使用her做的软件成果
 <img src="https://aibox.asia/assets/showcase/install-apk.jpg" alt="立即测试与安装入口" width="500">
-音乐应用运行示例：
+音乐应用
 <img src="https://aibox.asia/assets/showcase/install-music.jpg" alt="音乐应用运行示例" width="500">
-AI 小说工坊运行示例：
+AI 小说工坊
 <img src="https://aibox.asia/assets/showcase/install-novel.jpg" alt="AI 小说工坊运行示例" width="500">
 
 # 从空项目、本地目录或仓库链接开始
-导入项目后，Her 可继续解释结构、定位文件或执行修改
+导入GitHub项目后，Her 可继续解释结构、定位文件或执行修改
 <img src="https://aibox.asia/assets/showcase/github-import.jpg" alt="拉取项目图" width="500">
 # 用户可以上传个人的应用商城
 发布、浏览和安装社区应用，详情页保留评分、价格、截图和说明
@@ -22,4 +22,5 @@ AI 小说工坊运行示例：
 把可调用工具集中在一处，按需要启用搜索、安卓服务或自定义技能。
 <img src="https://aibox.asia/assets/showcase/plugins.jpg" alt="图片" width="500">
 官方qq群：798147701
-<a href="https://aibox.asia">点击访问 her官网</a>
+<a href="https://aibox.asia">点击访问 her官网获取应用</a>
+
