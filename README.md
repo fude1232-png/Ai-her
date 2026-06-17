@@ -21,6 +21,8 @@ AI 小说工坊
 # 探索更多功能有趣插件
 把可调用工具集中在一处，按需要启用搜索、安卓服务或自定义技能。
 <img src="https://aibox.asia/assets/showcase/plugins.jpg" alt="图片" width="500">
+# 可切换自定义ai模型，不受任何约束
+<img src="http://65566.888456.xyz/687.jpg" alt="" width="500">
 官方qq群：798147701
 <a href="https://aibox.asia">点击访问 her官网获取应用</a>
 
